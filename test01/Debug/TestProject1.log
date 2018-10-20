@@ -1,0 +1,6 @@
+﻿  main.c
+c:\users\ユウスケ\source\repos\testproject1\testproject1\main.c(18): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: 'strtok' の宣言を確認してください
+c:\users\ユウスケ\source\repos\testproject1\testproject1\main.c(29): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: 'strtok' の宣言を確認してください
+  TestProject1.vcxproj -> C:\Users\ユウスケ\source\repos\TestProject1\Debug\TestProject1.exe
